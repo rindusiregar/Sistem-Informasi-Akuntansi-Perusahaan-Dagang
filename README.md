@@ -4,7 +4,7 @@ Tugas Mata Kuliah Sistem Informasi Akuntansi. Sistem ini berisi informasi terkai
 
 ## Output
 ![Flowchart](public/gambar/flowchart.png)
-![Database](public/gambar/database_1.png)
+![Database](public/gambar/desain.png)
 ![Menu Login](public/gambar/login.png)
 ![Menu Home](public/gambar/penjualan.png)
 
