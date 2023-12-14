@@ -3,7 +3,7 @@
 Tugas Mata Kuliah Sistem Informasi Akuntansi. Sistem ini berisi informasi terkait penjualan barang, pembelian bahan, dan produksi barang yang membantu mencatat transaksi usaha. Sistem ini masih sederhana dan masih perlu dikembangkan. 
 
 ## Output
-![Flowchart](public/gambar/desainflowchart.png)
+![Flowchart](public/gambar/desain_flowchart.png)
 ![Database](public/gambar/desain.png)
 ![Menu Login](public/gambar/login.png)
 ![Menu Home](public/gambar/penjualan.png)
